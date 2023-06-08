@@ -1,0 +1,6 @@
+﻿Central Hotel;Medium;200
+Riverside Hotel;Large;120
+Sunset Palms Resort;Small;250
+Mountain View Lodge;Medium;300
+City Suites;Small;500
+Beachcomber Inn;Small;150

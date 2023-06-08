@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.Methods.Hotel">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAQAAAAQEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Methods\Hotel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab2.Methods.LinkedList&lt;T&gt;">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Lab2.Methods.LinkedList&lt;T&gt;.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Methods\LinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABBAAAAgAAAABRAAAAQAAQAIAAAAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>Methods\LinkedList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="form1" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab2.Methods.TaskUtils">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAABAAAAAAAAAAAAAAAIAAAAAIAgAAAgACAAAA=</HashCode>
+      <FileName>Methods\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab2.Methods.Traveler">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAEAAAAAAAQEgACAAgQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Methods\Traveler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab2.Methods.TravelersByPrice">
+    <Position X="7" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAQEgAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Methods\TravelersByPrice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab2.form1">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAGAAEwAgAEAAAAAAQAgIBABQQAAAAAAAAAYAAkA=</HashCode>
+      <FileName>form1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Methods.InOutUtils">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAgIAAAACAAAAAABAAAAAA=</HashCode>
+      <FileName>Methods\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

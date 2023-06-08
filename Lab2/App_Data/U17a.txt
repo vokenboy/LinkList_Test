@@ -1,0 +1,3 @@
+﻿Smith;John;Coastal Resort;Medium;5
+Ammy;Len;Central Hotel;Medium;5
+Johnson;Emily;Coastal Resort;Large;3
